@@ -31,6 +31,11 @@
 
 3. **Εκτέλεση (Run):** Ανοίξτε το μεταγλωττισμένο .exe, ξεκινήστε το ραδιοφωνικό σας λογισμικό και το εργαλείο θα αναλάβει αθόρυβα τις μετατροπές στο παρασκήνιο!
 
+## Μεταφορά Αποθετηρίου
+Το Radio-Greeklish-Converter-TXT-Files μεταφέρθηκε στο Codeberg. Μπορείτε να δείτε περισσότερα στο [νέο αποθετήριο](https://codeberg.org/Konstantinos2106/Radio-Greeklish-Converter-TXT-Files).
+
+---
+---
 
 # Radio-Greeklish-Converter-TXT-Files
 A lightweight Windows GUI tool for web radio broadcasters. It automatically reads Greek song titles from a "Now Playing" TXT file, converts them to Greeklish, and outputs a clean file for streaming software like [BUTT](https://danielnoethen.de/butt/), solving all encoding issues
@@ -58,3 +63,6 @@ Many broadcasting tools (like [BUTT](https://danielnoethen.de/butt/)) struggle t
 `-static-libgcc -mwindows`
 
 3. **Run:** Launch the compiled .exe, start your radio software, and the tool will silently handle the conversions in the background!
+
+## Repository Transfer
+Radio-Greeklish-Converter-TXT-Files moved to Codeberg. You can see more at [new repository](https://codeberg.org/Konstantinos2106/Radio-Greeklish-Converter-TXT-Files).
